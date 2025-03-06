@@ -1,5 +1,5 @@
 # Soybean-Seed-Image-Classification-using-Deep-Learning
-This repository contains code and datasets for a thesis on soybean seed image classification using deep learning. It compares the performance of YOLOv8 and ResNet-50 in classifying five seed types: broken, intact, spotted, immature, and skin-damaged, while also evaluating the impact of color augmentation on model accuracy.
+This repository contains code and datasets for my thesis (Jusvita from Syarif Hidayatullah Islamic State University Jakarta) on soybean seed image classification using deep learning. It compares the performance of YOLOv8 and ResNet-50 in classifying five seed types: broken, intact, spotted, immature, and skin-damaged, while also evaluating the impact of color augmentation on model accuracy.
 
 ## **Dataset**
 1. Dataset Structure
@@ -27,6 +27,18 @@ This repository contains code and datasets for a thesis on soybean seed image cl
    
    After augmentation, the number of images in the training set increases to 20,000, while the test set remains at 5,000, with the same validation split ratios.
    This dataset is used to compare the performance of YOLOv8 and ResNet-50 in soybean seed image classification and analyze the effect of augmentation on model accuracy.
+
+## **Model & Metode yang Digunakan**
+- YOLOv8: YOLOv8 is the latest version of the YOLO (You Only Look Once) model released by Ultralytics. YOLOv8 is used for object detection, segmentation, and image classification in computer vision applications.
+- ResNet50: ResNet50 is a deep learning architecture based on residual learning that addresses the vanishing gradient problem and performance degradation.
+
+## **Parameter**
+![image](https://github.com/user-attachments/assets/cdd5cf0f-7b90-41ca-b0b9-c97c9ced1142)
+
+## **Evaluasi & Hasil**
+
+
+
 
 
 
