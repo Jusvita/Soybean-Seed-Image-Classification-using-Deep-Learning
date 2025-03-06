@@ -3,6 +3,8 @@ This repository contains code and datasets for a thesis on soybean seed image cl
 
 ## **Dataset**
 1. Dataset Structure
+![benih kedelai 1](https://github.com/user-attachments/assets/132242bd-968e-49e6-8b07-596341c53ce2)
+![benih kedelai 2](https://github.com/user-attachments/assets/f79e3628-f367-4aaf-a273-220ca5e01d43)
 
    The dataset consists of 5,000 soybean seed images classified into five categories:
    - Broken
@@ -26,6 +28,8 @@ This repository contains code and datasets for a thesis on soybean seed image cl
    
    After augmentation, the number of images in the training set increases to 20,000, while the test set remains at 5,000, with the same validation split ratios.
    This dataset is used to compare the performance of YOLOv8 and ResNet-50 in soybean seed image classification and analyze the effect of augmentation on model accuracy.
+
+
 
 
 
